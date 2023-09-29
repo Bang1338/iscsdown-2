@@ -10,7 +10,7 @@ sites:
   - name: bang1338 (domain)
     url: https://bang1338.xyz
   - name: bang1338 (github)
-    url: bang1338.github.io
+    url: https://bang1338.github.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
